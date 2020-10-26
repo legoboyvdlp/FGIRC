@@ -1,0 +1,3 @@
+C:/Users/redpa/Documents/FlightGear/FGIRC/FGIRC/out/build/x64-Debug (default)/CMakeFiles/FGIRC.dir
+C:/Users/redpa/Documents/FlightGear/FGIRC/FGIRC/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/redpa/Documents/FlightGear/FGIRC/FGIRC/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
